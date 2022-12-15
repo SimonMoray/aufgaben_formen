@@ -1,3 +1,3 @@
-module github.com/reinerhuechting/courses.go.aufgaben.formen
+module github.com/tel22a.inf/aufgaben_formen
 
 go 1.19
